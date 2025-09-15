@@ -1,0 +1,78 @@
+{
+    "all_questions": [
+        {
+            "user_input": "What is tuition cost for the program?",
+            "reference": "Tuition for the MS in Applied Data Science program: $5,967 per course/$71,604 total tuition"
+        },
+        {
+            "user_input": "What scholarships are available for the program?",
+            "reference": "The Data Science Institute Scholarship, MS in Applied Data Science Alumni Scholarship"
+        },
+        {
+            "user_input": "What are the minimum scores for the TOEFL and IELTS English Language Requirement?",
+            "reference": "Minimum scores for the Master’s in Applied Data Science program: TOEFL, 102 (no subscore requirement); IELTS, 7 (no subscore requirement)"
+        },
+        {
+            "user_input": "Is there an application fee waiver?",
+            "reference": "For questions regarding an application fee waiver, please refer to the Physical Sciences Division fee waiver policy"
+        },
+        {
+            "user_input": "What are the deadlines for the in-person program?",
+            "reference": "November 7, 2024 – Priority Application Deadline; December 4, 2024 – Scholarship Priority Deadline; January 21, 2025 – International Application Deadline (requiring visa sponsorship from UChicago); March 4, 2025 – Second Priority Application Deadline; May 6, 2025 – Third Priority Application Deadline; June 23, 2025 – Final Application Deadline"
+        },
+        {
+            "user_input": "How long will it take for me to receive a decision on my application?",
+            "reference": "In-Person application decisions are released approximately 1 to 2 months after each respected deadline. Online application decisions are released on a rolling basis"
+        },
+        {
+            "user_input": "Can I set up an advising appointment with the enrollment management team?",
+            "reference": "Yes, meet your admissions counselor by scheduling an appointment https://apply-psd.uchicago.edu/portal/applied-data-science"
+        },
+        {
+            "user_input": "Where can I mail my official transcripts?",
+            "reference": "The University of Chicago; Attention: MS in Applied Data Science Admissions; 455 N Cityfront Plaza Dr., Suite 950; Chicago, Illinois 60611"
+        },
+        {
+            "user_input": "Does the Master’s in Applied Data Science Online program provide visa sponsorship?",
+            "reference": "Only our In-Person, Full-Time program is Visa eligible"
+        },
+        {
+            "user_input": "How do I apply to the MBA/MS program?",
+            "reference": "Applicants interested in the Joint MBA/MS degree will apply through Booth’s centralized, joint-application processLinks to an external site.. Applicants should complete the Chicago Booth Full-Time MBA applicationLinks to an external site. and select the MBA/MS in Applied Data Science as their program of interest"
+        },
+        {
+            "user_input": "Is the MS in Applied Data Science program STEM/OPT eligible?",
+            "reference": "The MS in Applied Data Science program is STEM/OPT eligible"
+        },
+        {
+            "user_input": "How many courses must you complete to earn UChicago’s Master’s in Applied Data Science?",
+            "reference": "To earn the MS-ADS degree students must successfully complete 12 courses (6 core, 4 elective, 2 Capstone) and our tailored Career Seminar"
+        }
+    ],
+    "all_questions_old": [
+        {
+            "user_input": "What are the core courses in the MS in Applied Data Science program?",
+            "reference": "Six core courses form the backbone of the MS in Applied Data Science curriculum: Statistical Models for Data Science,Leadership and Consulting for Data Science,Data Engineering Platforms for Analytics or Big Data and Cloud Computing (choose one), Machine Learning I,Time Series Analysis and Forecasting,Machine Learning II. These courses ensure you build both rigorous theoretical foundations and hands-on skills in statistical modeling, machine learning, and data engineering"
+        },
+        {
+            "user_input": "What are the admission requirements for the MS in Applied Data Science program?",
+            "reference": "Application Materials: Applicants need to submit various materials as part of their application. This includes unofficial transcripts, which must be uploaded to the application.; Standardized Tests: The GRE or GMAT is not required for the MS in Applied Data Science program. However, if applicants have taken these tests and wish to include their scores, they can do so; English Proficiency: International applicants must provide proof of English proficiency. UChicago accepts TOEFL iBT or IELTS scores as proof. The minimum TOEFL iBT score required is 104, and the minimum IELTS score required is 7. Proof of English proficiency may be waived under certain criteria noted by UChicago GRAD Admissions;"
+        },
+        {
+            "user_input": "Can you provide information about the capstone project?",
+            "reference": "The capstone project in the University of Chicago's MS in Applied Data Science program is a culminating experience where students apply their knowledge and skills to real business problems. This project allows students to gain valuable, data-driven insights using authentic data. Students work in faculty-mentored teams to develop data science solutions that address organizational problems, enhance analytics capabilities, and expand talent pools and employment opportunities. The capstone projects are sponsored by real clients from various sectors, including finance, entertainment, and automotive, providing students with collaboration, mentoring, and networking opportunities"
+        },
+        {
+            "user_input": "What is the tuition of the program?",
+            "reference": "Tuition: $5,967 per course, for a total of $71,604 (12 courses); Enrollment deposit: $1,500 (non-refundable, credited toward first quarter); Financial aid: Merit-based scholarships are awarded to eligible applicants."
+        },
+        {
+            "user_input": "How do I apply to the MS in Applied Data Science program?",
+            "reference": "Applications are submitted online via the UChicago portal at apply-psd.uchicago.edu, and only complete applications are reviewed. In-Person deadlines (Autumn 2025): May 6 (3rd priority), June 23 (final);Online deadline (Autumn 2025): June 23 (final);Both full- and part-time, in-person and online formats admit students annually for the autumn quarter."
+        },
+        {
+            "user_input": "What faculty teach in the master program?",
+            "reference": "- Greg Green: Senior Instructional Professor; Senior Director of the DSI Polsky Transform Initiative; Senior Director of DSI Executive and Professional Education; - Arnab Bose, PhD: Associate Senior Instructional Professor, Program Director of MS in Applied Data Science Online Program; Chief Scientific Officer, UST AlphaAI; - Francisco Azeredo, PhD: Associate Clinical Professor; - Anil D Chaturvedi, PhD: Associate Clinical Professor; - Nick Kadochnikov: Associate Clinical Professor; - Ming-Long Lam, PhD: Assistant Clinical Professor; - Roger Moore, MBA: Associate Clinical Professor; - Utku Pamuksuz, PhD: Associate Clinical Professor; Co-Founder Inference Analytics; - Donald Patchell, MSE, MBA: Associate Clinical Professor; - Jonathan Williams, MS: Assistant Clinical Professor; - Shaddy Abado, PhD: Instructor; Lead Data Scientist at Ulta Beauty; - Gizem Agar, PhD: Instructor; Analytics & Transformation Leader; - Abid Ali, PhD: Instructor; - Steve Barry: Instructor; Head of Technology and Data, Savant Wealth Management; - Shree Bharadwaj, MS: Instructor; Director and Innovation Fellow at West Monroe; - Sanjay Boddhu, PhD: Instructor; Capstone and Advisor, Head of UniMap Automation at HERE Technologies; - Fouad Bousetouane, PhD: Instructor; Co-Founder and Chief AI Officer at 2ndsight.ai; - Shahbaz Chaudhary, MA: Instructor; Manager of Data Science, Charles Schwab; - Mark Hendricks, PhD: Associate Senior Instructional Professor, FinMath; - Sebastien Donadio, PhD: Instructor; Chief Technology Officer, TradAir; - Ignas Grabauskas: Instructor; Data Scientist at Simpson Thacher; - Batu Gundogdu, PhD: Instructor; Research Assistant Professor (BSD)"
+        }
+    ]
+}

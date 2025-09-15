@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  streamlit-app:
+    build:
+      context: .      # keep build context as src/app
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+      - ../data/chroma_rag_store:/app/data/chroma_rag_store
+      - ../data/documents:/app/data/documents   # 👈 mount documents too
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    restart: unless-stopped

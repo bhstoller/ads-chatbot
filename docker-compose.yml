@@ -1,0 +1,18 @@
+services:
+  streamlit-app:
+    build:
+      context: .
+    ports:
+      - "8080:8080"
+
+    # Mount host folders into the container so your docs + Chroma persist
+    volumes:
+      - ./src/app:/app/src/app
+      - ./src/data/chroma_rag_store:/app/src/data/chroma_rag_store
+      - ./src/data/documents:/app/src/data/documents
+
+    # Load env vars from .env in src/app
+    env_file:
+      - ./src/app/.env
+
+    restart: unless-stopped
