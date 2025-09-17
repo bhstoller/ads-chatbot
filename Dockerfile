@@ -16,8 +16,19 @@ COPY . .
 # Create folder for your vector store (if needed)
 RUN mkdir -p /app/data/chroma_rag_store
 
-# Expose Streamlit port
+# Expose the port Cloud Run expects
 EXPOSE 8080
 
-# Run Streamlit when the container starts
-CMD ["streamlit", "run", "/app/src/app/streamlit_app.py", "--server.port=8080", "--server.address=0.0.0.0"]
+# --- Cloud Run / Streamlit fixes ---
+# Disable file watching (prevents "Connecting…/Running…" loop)
+# Disable usage stats prompts
+ENV STREAMLIT_SERVER_FILE_WATCHER_TYPE=none \
+    STREAMLIT_BROWSER_GATHER_USAGE_STATS=false \
+    PORT=8080
+
+# Run Streamlit with Cloud Run’s PORT
+CMD ["streamlit", "run", "src/app/streamlit_app.py", \
+     "--server.port=8080", \
+     "--server.address=0.0.0.0", \
+     "--server.enableCORS=false", \
+     "--server.enableXsrfProtection=false"]
